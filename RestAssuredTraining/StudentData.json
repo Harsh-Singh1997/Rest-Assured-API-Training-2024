@@ -1,0 +1,10 @@
+{
+      "id": "4",
+      "name": "Richard",
+      "location": "New York",
+      "phone": "7355230249",
+      "courses": [
+        "JS",
+        "Cypress"
+      ]
+    }

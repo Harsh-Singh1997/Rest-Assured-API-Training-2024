@@ -13,7 +13,7 @@ import static org.hamcrest. Matchers.*;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class ParsingResponseTest {
+public class ParsingJSONResponseTest {
 
 	@Test(priority=1)
 	void testJSONResponse() {
